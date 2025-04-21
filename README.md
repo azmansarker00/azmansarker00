@@ -1,3 +1,18 @@
+# 👋 Hi, I'm Azman Sarker!
+
+🎨 Frontend Web Developer | 📱 React.js Enthusiast  
+🌱 Currently learning React, JavaScript & Firebase  
+📌 Passionate about web design, coding, and creative projects  
+
+## 📊 Tech Stack
+- 🌐 HTML | CSS | JavaScript | Tailwind CSS
+- ⚛️ React.js | Redux
+- 🔥 Firebase | Netlify
+- 🎨 Photoshop | Lightroom | Filmora
+
+---
+
+📫 Reach me at: [azmansarker.online](https://azmansarker.online)
 ## Hi there 👋
 
 <!--
