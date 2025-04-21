@@ -1,3 +1,6 @@
+![banner](https://res.cloudinary.com/dvzvnbvmw/video/upload/v1741874157/web_lujjbi.mp4)
+
+
 # 👋 Hi, I'm Azman Sarker!
 
 🎨 Frontend Web Developer | 📱 React.js Enthusiast  
