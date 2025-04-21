@@ -1,34 +1,40 @@
-![banner](https://res.cloudinary.com/dvzvnbvmw/video/upload/v1741874157/web_lujjbi.mp4)
+![Azman Sarker Banner](https://res.cloudinary.com/dvzvnbvmw/image/upload/v1745258057/ChatGPT_Image_Apr_21_2025_11_53_28_PM_zrsvt7.png)
 
+# 👋 Hello, I'm **Azman Sarker**
 
-# 👋 Hi, I'm Azman Sarker!
-
-🎨 Frontend Web Developer | 📱 React.js Enthusiast  
-🌱 Currently learning React, JavaScript & Firebase  
-📌 Passionate about web design, coding, and creative projects  
-
-## 📊 Tech Stack
-- 🌐 HTML | CSS | JavaScript | Tailwind CSS
-- ⚛️ React.js | Redux
-- 🔥 Firebase | Netlify
-- 🎨 Photoshop | Lightroom | Filmora
+## 🚀 Passionate Web Developer with a Creative Streak!
 
 ---
 
-📫 Reach me at: [azmansarker.online](https://azmansarker.online)
-## Hi there 👋
+### 🔧 Technologies I Use:
+- 💻 **Frontend**: React.js, Tailwind CSS, HTML, CSS
+- 🖥️ **Backend**: Node.js _(Coming Soon!)_
+- 📦 **Tools**: Filmora 🎬, Photoshop 🎨, Lightroom 📷, GitHub 🐙, Firebase 🔥
 
-<!--
-**azmansarker00/azmansarker00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎯 My Goals:
+- ✅ Master frontend development & become a **Full-Stack Developer**
+- ✅ Build sleek, user-friendly websites & apps that solve real problems
+- ✅ Create content that **educates, inspires & informs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 Currently Learning:
+- ✍️ **JavaScript** (Mastering it!)
+- 🔒 **API handling & authentication**
+
+---
+
+### 💼 What I Love:
+- 📸 Exploring **photography, videography & photo editing**
+- 🎥 Working on my **YouTube channel** tackling serious topics, debunking misconceptions & sharing truths
+
+---
+
+## 🚀 Let’s build something amazing together! 🌟  
+Check out my projects below! 👇  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azmansarker00&show_icons=true&count_private=true&theme=radical)](https://github.com/azmansarker00)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azmansarker00&layout=compact&theme=radical)
